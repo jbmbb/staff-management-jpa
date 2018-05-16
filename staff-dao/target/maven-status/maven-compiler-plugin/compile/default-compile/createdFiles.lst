@@ -1,0 +1,3 @@
+org\staff\dao\domain\Staff.class
+org\staff\dao\repository\StaffRepository.class
+org\staff\StaffDaoApplication.class
